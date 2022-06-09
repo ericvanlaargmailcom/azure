@@ -13,14 +13,6 @@
 <br> feature 6
 <br> feature 7
 <br> feature 8
-<br> feature 9.1 
-<br> feature 10 
-<br> feature 11
-<br> feature 12
-<br> feature 13
-<br> feature 14
-<br> feature 15
-<br> feature 16
  
 </h2>
 </html>
