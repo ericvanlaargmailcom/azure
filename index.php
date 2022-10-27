@@ -12,8 +12,7 @@
 <br> feature 5
 <br> feature 6
 
- 
-Disclaimer: this code is really written by Eric
+<br> Disclaimer: this code is really written by Eric
 
 
  
