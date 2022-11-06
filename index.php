@@ -20,6 +20,6 @@
       <br>
        <br>
         <br>
-         <br> Disclaimer: this code is really written by Eric
+         <br> Disclaimer: code really written by Eric, if you want to sell it let me know
  </h2>
 </html>
