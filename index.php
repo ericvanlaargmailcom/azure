@@ -11,10 +11,15 @@
 <br> feature 4
 <br> feature 5
 <br> feature 6
-
-<br> Disclaimer: this code is really written by Eric
-
-
- 
+<br>
+ <br>
+  <br>
+   <br>
+    <br>
+     <br>
+      <br>
+       <br>
+        <br>
+         <br> Disclaimer: this code is really written by Eric
  </h2>
 </html>
