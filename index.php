@@ -2,7 +2,7 @@
 <header><title>Mijn demo webapp!</title>
 </header>
 <h2>My DEMO site <br> 
-<br> AZURE Continuous Integration & Delivery
+<br> AZURE Continuous Integration (CI) & Continuous Delivery (CD)
 <br> base code 
 
 <br> feature 1
