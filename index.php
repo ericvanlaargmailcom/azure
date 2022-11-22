@@ -14,7 +14,7 @@
 <br> feature 7
 <br> feature 8
 <br> feature 9
-<br> feature kleur paars
+<br> feature 10
 
 <br>
  <br>
