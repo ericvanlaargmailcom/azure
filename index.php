@@ -8,8 +8,6 @@
 <br> feature 1
 <br> feature 2
 <br> feature 3
-<br> vanuit github toegevoegd deze feature
-<br> vanuit vscode toegevoegd deze feature
  
 <br>
  <br>
