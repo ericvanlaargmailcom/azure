@@ -13,6 +13,8 @@
 <br> feature 6
 <br> feature 7
 <br> feature 8
+<br> feature 9
+
  
 <br>
  <br>
@@ -23,6 +25,6 @@
       <br>
        <br>
         <br>
-         <br> Disclaimer: code really written by Eric, if you want to sell it let me know!
+         <br> Disclaimer: code really written by Eric, if you want to sell/buy it let me know!
  </h2>
 </html>
