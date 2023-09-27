@@ -12,8 +12,7 @@
 <br> feature 5
 <br> feature 6
 <br> feature 12
-<br> feature A
-
+<br> feature 14
  
 <br>
  <br>
@@ -24,6 +23,6 @@
       <br>
        <br>
         <br>
-         <br> Disclaimer: code really written by Eric, if you want to sell/buy it let me know! Bel me aub op 06-445566566
+         <br> Disclaimer: code really written by Eric, if you want to sell/buy it let me know!
  </h2>
 </html>
