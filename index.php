@@ -11,12 +11,6 @@
 <br> feature 4
 <br> feature 5
 <br> feature 6
-<br> feature 12
-<br> feature 14
-<br> feature 15
-<br> feature 16
-<br> feature 18
- 
  
 <br>
  <br>
