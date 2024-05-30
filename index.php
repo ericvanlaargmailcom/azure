@@ -11,8 +11,7 @@
 <br> feature 4
 <br> feature 8
 <br> feature 9
-<br> feature 10tothemax
- wegermee
+<br> feature 10
 
  
 <br>
