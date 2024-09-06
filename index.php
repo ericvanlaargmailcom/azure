@@ -9,13 +9,6 @@
 <br> feature 2
 <br> feature 3
 <br> feature 4
-<br> feature 10
-<br> feature 11
-<br> feature 12
-<br> feature 20 
-<br> feature 30
-<br> feature 40
-
  
 <br>
  <br>
