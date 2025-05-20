@@ -5,7 +5,6 @@
 <br> AZURE Continuous Integration (CI) & Continuous Delivery (CD)
 <br> base code 
 
-<br> feature 0
 <br> feature 1
 <br> feature 2
 <br> feature 3
