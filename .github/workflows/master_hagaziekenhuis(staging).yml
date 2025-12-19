@@ -57,4 +57,4 @@ jobs:
           app-name: 'hagaziekenhuis'
           slot-name: 'staging'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_63A9269407BC4999AD80955B8379ED0E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_48FFF2D55DF943428B9E2D9022457763 }}
