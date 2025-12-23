@@ -57,4 +57,4 @@ jobs:
           app-name: 'saxion'
           slot-name: 'staging'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D6FE5D3951DC46F09DDC6F98CAD0FB15 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_43B97AC743164F569A3E5C845889DC0A }}
