@@ -1,5 +1,5 @@
 <html>
-<header><title>Mijn demo webapp!</title>
+<header><title>Mijn webapp!</title>
 </header>
 <h2>My DEMO site <br> 
 <br> AZURE Continuous Integration (CI) & Continuous Delivery (CD)
