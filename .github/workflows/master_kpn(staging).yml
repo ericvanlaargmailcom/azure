@@ -57,4 +57,4 @@ jobs:
           app-name: 'kpn'
           slot-name: 'staging'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DC463B59A09F41BA936589C198F2B2EB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9F92B6CF77084EAB8711F5196534F279 }}
