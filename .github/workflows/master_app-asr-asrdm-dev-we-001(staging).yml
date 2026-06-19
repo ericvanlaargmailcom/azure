@@ -57,4 +57,4 @@ jobs:
           app-name: 'app-asr-asrdm-dev-we-001'
           slot-name: 'staging'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5CBB6BCB7B544718A2F6F39C19779999 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_235EF47B71A3461B8F73FA9121952A07 }}
