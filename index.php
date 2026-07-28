@@ -37,7 +37,6 @@
        <br>
         <br>
          <br> Disclaimer: code really written by Eric, if you want to sell it please let me know!
-          <br> Disclaimer: code really written by Eric, if you want to sell it please let me know! iom Remco
 
  </h2>
 </html>
