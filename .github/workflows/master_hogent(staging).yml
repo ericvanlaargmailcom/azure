@@ -6,7 +6,7 @@ name: Build and deploy PHP app to Azure Web App - hogent
 on:
   push:
     branches:
-      - master
+      - 'master'
   workflow_dispatch:
 
 jobs:
@@ -57,4 +57,4 @@ jobs:
           app-name: 'hogent'
           slot-name: 'staging'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AC41F455921047D8851441C74203F100 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7D7CE1DF24B24F7981ABA6E10753E001 }}
