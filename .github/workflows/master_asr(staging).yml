@@ -6,7 +6,7 @@ name: Build and deploy PHP app to Azure Web App - asr
 on:
   push:
     branches:
-      - master
+      - 'master'
   workflow_dispatch:
 
 jobs:
@@ -57,4 +57,4 @@ jobs:
           app-name: 'asr'
           slot-name: 'staging'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_833F99F0052048658FB28C0FB56E5C85 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DE303824D64F4F5B95E03A13DBD2288C }}
