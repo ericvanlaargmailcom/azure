@@ -57,4 +57,4 @@ jobs:
           app-name: 'hogent'
           slot-name: 'staging'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_372A56469C6F45A5913CB7F0F886C891 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D279FF614EA44C6AA091879F65529346 }}
